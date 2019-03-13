@@ -25,9 +25,9 @@ XOR is used for One time pad constructs : You use a key to xor a plaintext once.
 
 You can then decrypt using the same key.
 
-But How to pass the key to th relevant parties ? Cryptography tries to answer that question.
+But how to pass the key to th relevant parties ? Cryptography tries to answer that question.
 
-Two families of cyphers :
+Two families of ciphers :
 
 * Symmetric : Both side share same key
   * Stream : Encrypt data byte per byte

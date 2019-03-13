@@ -12,7 +12,7 @@ Cookies added for a subdomain can be accessed by this subdomain and all its chil
 
 Two flags for cookies :
 * Secure : only https page
-* HTTPOnly : js cant read cookie
+* HTTPOnly : js can't read cookie
 
 This info is found in the `Set-Cookie` header.
 
