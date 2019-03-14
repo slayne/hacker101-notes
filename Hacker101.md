@@ -89,7 +89,7 @@ select foo,bar,baz from some_table where foo='1' union select 1?3?4; --';
 
 ## Blind SQLi
 
-When you can't direclty see the result of the query
+When you can't directly see the result of the query
 good tutorial : [link](https://zestedesavoir.com/tutoriels/945/les-injections-sql-le-tutoriel/les-injections-sql-en-aveugle/blind-sql-injection/)
 
 ## Detecting database
